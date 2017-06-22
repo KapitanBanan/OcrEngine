@@ -1,0 +1,11 @@
+App.xbf
+Pages\Appointment\ChoosePageAppointment.xbf
+Pages\Appointment\ResultPageAppoinment.xbf
+Pages\Appointment\SelectTextAppoinmentPage.xbf
+Pages\Contact\ChoosePageContact.xbf
+Pages\Contact\ResultPageContact.xbf
+Pages\Contact\SelectTextPageContact.xbf
+Pages\Costs\ChoosePageCosts.xbf
+Pages\Costs\ResultPageCosts.xbf
+Pages\Costs\SelectTextPageCosts.xbf
+Pages\PageStart.xbf

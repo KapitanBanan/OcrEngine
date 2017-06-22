@@ -1,0 +1,1 @@
+C:\Users\Boyarin\documents\visual studio 2017\Projects\TextScan\TextScan\TextScan.csproj;x64
